@@ -10,6 +10,9 @@
     max-width: 1338px;
     margin: 0 auto;
     padding: 0 30px;
+}
+
+body {
     overflow-x: hidden;
 }
 
